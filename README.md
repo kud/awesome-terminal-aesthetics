@@ -53,6 +53,7 @@ Make your CLI output look as good as a GUI.
 - [Colorette](https://github.com/jorgebucaran/colorette) `js` — Minimal, fast terminal colours. No dependencies, no nonsense.
 - [Kleur](https://github.com/lukeed/kleur) `js` — The fastest Node.js library for ANSI colours. Tiny and chainable.
 - [Figlet.js](https://github.com/patorjk/figlet.js) `js` — ASCII art text banners in your terminal. Great for CLI splash screens.
+- [lolcat](https://github.com/busyloop/lolcat) `ruby` — Rainbow colouring for terminal output. Pure joy.
 
 ## CLI Tools with Great Aesthetics
 
@@ -86,6 +87,7 @@ Emulators that take aesthetics seriously.
 - [WezTerm](https://github.com/wez/wezterm) `rust` — GPU-accelerated with deep Lua config. Ligatures, multiplexer, and beautiful defaults.
 - [Alacritty](https://github.com/alacritty/alacritty) `rust` — The original GPU-accelerated terminal. Fast, minimal, config-driven.
 - [Rio](https://github.com/raphamorim/rio) `rust` — A hardware-accelerated terminal with a focus on performance and modern typography.
+- [Ghostty](https://github.com/ghostty-org/ghostty) `zig` — Blazing fast, native, and visually refined. Exceptional font rendering.
 
 ## Fonts
 
