@@ -26,6 +26,8 @@ Build full terminal UIs with great ergonomics.
 
 - [Ratatui](https://github.com/ratatui/ratatui) `rust` — Immediate-mode TUI library. Composable widgets, excellent docs, huge community.
 - [Cursive](https://github.com/gyscos/cursive) `rust` — Ergonomic TUI with a focus on composable views and clean event handling.
+- [indicatif](https://github.com/console-rs/indicatif) `rust` — Progress bars and spinners. The polished standard for Rust CLIs.
+- [dialoguer](https://github.com/console-rs/dialoguer) `rust` — Interactive prompts with great defaults. Pairs naturally with indicatif.
 - [Bubble Tea](https://github.com/charmbracelet/bubbletea) `go` — Elm-inspired TUI framework. Clean architecture, part of the Charm ecosystem.
 - [tview](https://github.com/rivo/tview) `go` — Rich widget library built on tcell. Tables, forms, modals — all polished.
 - [Ink](https://github.com/vadimdemedes/ink) `ts` — React for CLIs. Components, hooks, and the full React mental model in your terminal.
@@ -48,12 +50,17 @@ Libraries that make user input feel polished.
 Make your CLI output look as good as a GUI.
 
 - [Lip Gloss](https://github.com/charmbracelet/lipgloss) `go` — Declarative styling for terminal layouts. Borders, padding, colours, alignment.
+- [pterm](https://github.com/pterm/pterm) `go` — Comprehensive output library: spinners, tables, progress bars, trees. Very visual.
+- [freeze](https://github.com/charmbracelet/freeze) `go` — Beautiful code screenshots straight from the terminal. Charm team.
 - [Glamour](https://github.com/charmbracelet/glamour) `go` — Markdown rendering for the terminal. Gorgeous output with custom themes.
 - [Chalk](https://github.com/chalk/chalk) `js` — The de facto terminal string styling library. Simple, chainable, fast.
 - [Colorette](https://github.com/jorgebucaran/colorette) `js` — Minimal, fast terminal colours. No dependencies, no nonsense.
 - [Kleur](https://github.com/lukeed/kleur) `js` — The fastest Node.js library for ANSI colours. Tiny and chainable.
 - [Figlet.js](https://github.com/patorjk/figlet.js) `js` — ASCII art text banners in your terminal. Great for CLI splash screens.
 - [lolcat](https://github.com/busyloop/lolcat) `ruby` — Rainbow colouring for terminal output. Pure joy.
+- [ora](https://github.com/sindresorhus/ora) `js` — Elegant terminal spinner. The go-to for Node.js CLIs.
+- [listr2](https://github.com/listr2/listr2) `ts` — Task lists with beautiful nested output. Great for CLI pipelines.
+- [gradient-string](https://github.com/bokub/gradient-string) `js` — Colour gradients applied to terminal strings. Great for splash screens.
 
 ## CLI Tools with Great Aesthetics
 
