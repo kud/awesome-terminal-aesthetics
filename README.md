@@ -111,6 +111,7 @@ Typefaces that make reading code in a terminal a pleasure.
 Themes that travel across your whole terminal stack.
 
 - [Catppuccin](https://github.com/catppuccin/catppuccin) — Soothing pastel palette. Ports for everything: editors, terminals, TUI frameworks.
+- [Palenight](https://github.com/drewtempelmeyer/palenight.vim) — Deep blue-purple palette inspired by Material Design. Easy on the eyes for long sessions.
 - [Rosé Pine](https://github.com/rose-pine/rose-pine-theme) — All natural pine, faux fur and a bit of soho vibes.
 - [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme) — A clean, dark theme celebrating the lights of downtown Tokyo at night.
 - [Kanagawa](https://github.com/rebelot/kanagawa.nvim) — Inspired by the colours of the famous painting by Katsushika Hokusai.
