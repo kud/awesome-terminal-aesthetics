@@ -61,6 +61,7 @@ Make your CLI output look as good as a GUI.
 - [ora](https://github.com/sindresorhus/ora) `js` — Elegant terminal spinner. The go-to for Node.js CLIs.
 - [listr2](https://github.com/listr2/listr2) `ts` — Task lists with beautiful nested output. Great for CLI pipelines.
 - [gradient-string](https://github.com/bokub/gradient-string) `js` — Colour gradients applied to terminal strings. Great for splash screens.
+- [shui](https://github.com/kud/shui) `zsh` — A token-based design system for Zsh scripts. Semantic components, themes, and icon sets — one file to source.
 
 ## CLI Tools with Great Aesthetics
 
