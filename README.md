@@ -6,19 +6,6 @@ Not just functional — _delightful_. Every entry here earns its place through g
 
 ---
 
-## Contents
-
-- [TUI Frameworks](#tui-frameworks)
-- [Prompt & Input](#prompt--input)
-- [Styling & Output](#styling--output)
-- [CLI Tools with Great Aesthetics](#cli-tools-with-great-aesthetics)
-- [Terminal Multiplexers & Shells](#terminal-multiplexers--shells)
-- [Terminal Emulators](#terminal-emulators)
-- [Fonts](#fonts)
-- [Colour Schemes](#colour-schemes)
-- [Showcases & Inspiration](#showcases--inspiration)
-
----
 
 ## TUI Frameworks
 
