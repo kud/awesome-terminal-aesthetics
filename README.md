@@ -31,6 +31,7 @@ Libraries that make user input feel polished.
 - [promptui](https://github.com/manifoldco/promptui) `go` — Interactive prompts with validation. Clean and idiomatic Go.
 - [Survey](https://github.com/AlecAivazis/survey) `go` — Feature-rich interactive prompts. Excellent multi-select and autocomplete.
 - [Enquirer](https://github.com/enquirer/enquirer) `js` — Stylish, intuitive prompts. Great for scripting interactive CLIs.
+- [Dax](https://github.com/dsherret/dax) `ts` — Cross-platform shell scripting for TypeScript with polished prompts, progress bars, and excellent automation DX.
 
 ## Styling & Output
 
