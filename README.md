@@ -114,6 +114,7 @@ Themes that travel across your whole terminal stack.
 Things that exist purely to make you go "wait, that runs in a terminal?".
 
 - [Charm VHS](https://github.com/charmbracelet/vhs) `go` — Record terminal GIFs from code. Perfect for README demos.
+- [Neko Baby](https://github.com/codegraphtheory/neko-baby) `hermes profile` - Kawaii Hermes Agent profile with a compact chibi pet pane, scoped Comic Mono launcher, pink terminal skin, and VHS-recorded live startup demo.
 - [asciinema](https://github.com/asciinema/asciinema) `rust` — Record and share terminal sessions. The standard for terminal screencasting.
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) `zsh` — Animated pipes in your terminal. A classic screensaver reimagined.
 
