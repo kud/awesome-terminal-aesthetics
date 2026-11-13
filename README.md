@@ -1,11 +1,28 @@
-# Awesome Terminal Aesthetics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
 
-> A curated list of tools, frameworks, and libraries that make the terminal genuinely beautiful to build with and look at.
+<img src="assets/icon.svg" width="128" alt="Awesome Terminal Aesthetics icon" />
 
-Not just functional — _delightful_. Every entry here earns its place through great DX, visual polish, or both.
+✨
 
----
+# Awesome Terminal Aesthetics
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+**✨ A curated list of tools and frameworks that make the terminal genuinely beautiful**
+
+<a href="https://kud.io/projects/awesome-terminal-aesthetics">Website</a> · <a href="https://kud.io/projects/awesome-terminal-aesthetics/docs">Documentation</a>
+
+</div>
+
+## Features
+
+A curated list of tools, frameworks, and libraries that make the terminal genuinely beautiful to build with and look at. Not just functional — _delightful_. Every entry here earns its place through great DX, visual polish, or both.
+
+- **Building blocks** — TUI frameworks, prompt and input libraries, styling and output helpers
+- **Everyday tools** — CLIs, multiplexers, shells and terminal emulators that happen to look exceptional
+- **The look itself** — fonts and colour schemes that travel across your whole terminal stack
+- **Inspiration** — showcases that make you go "wait, that runs in a terminal?"
+- **Language at a glance** — each entry is tagged with its language (`rust`, `go`, `ts`, `js`, …)
 
 ## TUI Frameworks
 
@@ -122,3 +139,5 @@ Things that exist purely to make you go "wait, that runs in a terminal?".
 ## Contributing
 
 This list is opinionated by design. If you have a suggestion, open an issue with a brief note on why it fits the _aesthetics_ bar — not just utility.
+
+📚 **Full documentation → [awesome-terminal-aesthetics/docs](https://kud.io/projects/awesome-terminal-aesthetics/docs)**
