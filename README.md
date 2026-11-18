@@ -85,6 +85,7 @@ Tools you use every day that happen to look exceptional.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) `go` — The same lazygit treatment for Docker. Effortless container management.
 - [fzf](https://github.com/junegunn/fzf) `go` — A command-line fuzzy finder. Deceptively powerful, universally useful.
 - [Gum](https://github.com/charmbracelet/gum) `go` — Shell script glamour. Declarative, beautiful shell interactions in one binary.
+- [Kilobat CLI](https://github.com/seifip/kilobat-cli) `swift` — macOS network diagnostics with a restrained keyboard-driven menu, aligned rows and visible shortcuts.
 
 ## Terminal Multiplexers & Shells
 
