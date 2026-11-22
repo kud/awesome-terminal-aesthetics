@@ -2,8 +2,6 @@
 
 <img src="assets/icon.svg" width="128" alt="Awesome Terminal Aesthetics icon" />
 
-✨
-
 # Awesome Terminal Aesthetics
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
